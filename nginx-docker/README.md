@@ -2,4 +2,10 @@
 Desafio módulo Docker
 
 ## DOCKER HUB
-https://hub.docker.com/repository/docker/felipealvesprestes/fullcycle/general
+Links Docker Hub das imagens geradas e utilizadas no desafio
+
+### NodeJS
+https://hub.docker.com/r/felipealvesprestes/fullcycle-node
+
+### Nginx
+https://hub.docker.com/r/felipealvesprestes/fullcycle-nginx
